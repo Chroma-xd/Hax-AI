@@ -15,7 +15,7 @@ pip install openai
 pip install psutil
 pip install colored
 cls
-newmain.exe
+Engine.exe
 
 :C
 echo.
